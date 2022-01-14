@@ -71,6 +71,61 @@ En conformidad se crea el proyecto para fortalecer los movimientos feministas y 
 
 ## 2.	Objetivos
 
+Basado en ODS queremos con we move love  ser parte de la solución.
+
+OBJETIVO 1 : Disminuir la pobreza.
+
+* 1.1  Para 2030, erradicar la pobreza extrema para todas las personas en el mundo, actualmente medida por un ingreso por persona inferior a 1,25 dólares al día.
+* 1.2  Para 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños y niñas de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales.
+* 1.3   Poner en práctica a nivel nacional sistemas y medidas apropiadas de protección social para todos y, para 2030, lograr una amplia cobertura de los pobres y los más vulnerables.
+* 1.4   Para 2030, garantizar que todos los hombres y mujeres, en particular los pobres y los más vulnerables, tengan los mismos derechos a los recursos económicos, así como acceso a los servicios básicos, la propiedad y el control de las tierras y otros bienes, la herencia, los recursos naturales, las nuevas tecnologías y los servicios económicos, incluida la microfinanciación.
+* 1.5   Para 2030, fomentar la resiliencia de los pobres y las personas que se encuentran en situaciones vulnerables y reducir su exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima y a otros desastres económicos, sociales y ambientales.
+
+Objetivo 2: Poner fin al hambre
+
+Tras décadas de una disminución constante, el número de personas que padecen hambre (medido por la prevalencia de desnutrición) comenzó a aumentar lentamente de nuevo en 2015. Las estimaciones actuales indican que cerca de 690 millones de personas en el mundo padecen hambre, es decir, el 8,9 por ciento de la población mundial, lo que supone un aumento de unos 10 millones de personas en un año y de unos 60 millones en cinco años. El mundo no está bien encaminado para alcanzar el objetivo de hambre cero para 2030. Si continúan las tendencias recientes, el número de personas afectadas por el hambre superará los 840 millones de personas para 2030.
+Según el Programa Mundial de Alimentos, alrededor de 135 millones de personas padecen hambre severa  , debido principalmente a los conflictos causados por los seres humanos, el cambio climático y las recesiones económicas. La pandemia de COVID-19 podría duplicar ahora esa cifra y sumar unos 130 millones de personas más que estarían en riesgo de padecer hambre severa a finales de 2022.
+Con más de 250 millones de personas que podrían encontrarse al borde de la hambruna  , es necesario actuar rápidamente para proporcionar alimentos y ayuda humanitaria a las regiones que corren más riesgos.
+Al mismo tiempo, es necesario llevar a cabo un cambio profundo en el sistema agroalimentario mundial si queremos alimentar a más de 820 millones de personas que padecen hambre y a los 2000 millones de personas más que vivirán en el mundo en 2050. El aumento de la productividad agrícola y la producción alimentaria sostenible son cruciales para ayudar a aliviar los riesgos del hambre.
+
+OBJETIVO 3 :SALUD Y BIENESTAR  
+
+Garantizar una vida sana y promover el bienestar en todas las edades es esencial para el desarrollo sostenible.
+Actualmente, el mundo se enfrenta a una crisis sanitaria mundial sin precedentes; la COVID-19 está propagando el sufrimiento humano, desestabilizando la economía mundial y cambiando drásticamente las vidas de miles de millones de personas en todo el mundo.
+Antes de la pandemia, se consiguieron grandes avances en la mejora de la salud de millones de personas. En concreto, estos grandes avances se alcanzaron al aumentar la esperanza de vida y reducir algunas de las causas de muerte comunes asociadas con la mortalidad infantil y materna. Sin embargo, se necesitan más esfuerzos para erradicar por completo una gran variedad de enfermedades y abordar un gran número de problemas de salud, tanto constantes como emergentes. A través de una financiación más eficiente de los sistemas sanitarios, un mayor saneamiento e higiene, y un mayor acceso al personal médico, se podrán conseguir avances significativos a la hora de ayudar a salvar las vidas de millones de personas.
+Las emergencias sanitarias, como la derivada de la COVID-19, suponen un riesgo mundial y han demostrado que la preparación es vital. El Programa de las Naciones Unidas para el Desarrollo señaló las grandes diferencias relativas a las capacidades de los países para lidiar con la crisis de la COVID-19 y recuperarse de ella. La pandemia constituye un punto de inflexión en lo referente a la preparación para las emergencias sanitarias y la inversión en servicios públicos vitales del siglo XXI
+Se requiere más que un esfuerzo de gobierno un esfuerzo social en conjunto.
+
+OBJETIVO 4 : AGUA LIMPIA Y ALKALINA
+
+Si bien se ha conseguido progresar de manera sustancial a la hora de ampliar el acceso a agua potable y saneamiento, existen miles de millones de personas (principalmente en áreas rurales) que aún carecen de estos servicios básicos. En todo el mundo, una de cada tres personas no tiene acceso a agua potable salubre, dos de cada cinco personas no disponen de una instalación básica destinada a lavarse las manos con agua y jabón, y más de 673 millones de personas aún defecan al aire libre.
+La pandemia de la COVID-19 ha puesto de manifiesto la importancia vital del saneamiento, la higiene y un acceso adecuado a agua limpia para prevenir y contener las enfermedades. La higiene de manos salva vidas. De acuerdo con la Organización Mundial de la Salud, el lavado de manos es una de las acciones más efectivas que se pueden llevar a cabo para reducir la propagación de patógenos y prevenir infecciones, incluido el virus de la COVID-19. Aun así, hay miles de millones de personas que carecen de acceso a agua salubre y saneamiento, y los fondos son insuficientes.
+
+OBJETIVO 5 : EDUCACIÓN QUE MOTIVE A LA ACCIÓN
+
+La educación permite la movilidad socioeconómica ascendente y es clave para salir de la pobreza. Durante la última década, se consiguieron grandes avances a la hora de ampliar el acceso a la educación y las tasas de matriculación en las escuelas en todos los niveles, especialmente para las niñas. No obstante, alrededor de 260 millones de niños aún estaban fuera de la escuela en 2018; cerca de una quinta parte de la población mundial de ese grupo de edad. Además, más de la mitad de todos los niños y adolescentes de todo el mundo no están alcanzando los estándares mínimos de competencia en lectura y matemáticas.
+En 2020, a medida que la pandemia de la COVID-19 se propagaba por todo el planeta, la mayor parte de los países anunciaron el cierre temporal de las escuelas, lo que afectó a más del 91 % de los estudiantes en todo el mundo. En abril de 2020, cerca de 1600 millones de niños y jóvenes estaban fuera de la escuela. Igualmente, cerca de 369 millones de niños que dependen de los comedores escolares tuvieron que buscar otras fuentes de nutrición diaria.
+Nunca antes habían estado tantos niños fuera de la escuela al mismo tiempo, lo que altera su aprendizaje y cambia drásticamente sus vidas, especialmente las de los niños más vulnerables y marginados. La pandemia mundial tiene graves consecuencias que pueden poner en peligro los avances que tanto costaron conseguir a la hora de mejorar la educación a nivel mundial.
+
+OBJETIVO 6 : ALIANZAS PARA LOGRAR LOS OBJETIVOS
+
+ara que un programa de desarrollo se cumpla satisfactoriamente, es necesario establecer asociaciones inclusivas (a nivel mundial, regional, nacional y local) sobre principios y valores, así como sobre una visión y unos objetivos compartidos que se centren primero en las personas y el planeta.
+Muchos países requieren asistencia oficial para el desarrollo con el fin de fomentar el crecimiento y el comercio. Aun así, los niveles de ayuda están disminuyendo y los países donantes no han respetado su compromiso de aumentar la financiación para el desarrollo.
+Debido a la pandemia de la COVID-19, se espera que la economía mundial se contraiga fuertemente, en un 3 %, en 2020, lo que constituiría su peor recesión desde la Gran Depresión.
+Ahora más que nunca es necesaria una sólida cooperación internacional con el fin de garantizar que los países que poseen los medios para recuperarse de la pandemia reconstruyan mejor y consigan los Objetivos de Desarrollo Sostenible.
+
+OBJETIVO 7 : Lograr empoderar a mujeres y niñas 
+
+La igualdad de género no solo es un derecho humano fundamental, sino que es uno de los fundamentos esenciales para construir un mundo pacífico, próspero y sostenible.
+Se han conseguido algunos avances durante las últimas décadas: más niñas están escolarizadas, y se obliga a menos niñas al matrimonio precoz; hay más mujeres con cargos en parlamentos y en posiciones de liderazgo, y las leyes se están reformando para fomentar la igualdad de género.
+A pesar de estos logros, todavía existen muchas dificultades: las leyes y las normas sociales discriminatorias continúan siendo generalizadas, las mujeres siguen estando infrarrepresentadas a todos los niveles de liderazgo político, y 1 de cada 5 mujeres y niñas de entre 15 y 49 años afirma haber sufrido violencia sexual o física a manos de una pareja íntima en un período de 12 meses.
+
+Los efectos de la pandemia de la COVID-19 podrían revertir los escasos logros que se han alcanzado en materia de igualdad de género y derechos de las mujeres.  El brote de coronavirus agrava las desigualdades existentes para las mujeres y niñas a nivel mundial; desde la salud y la economía, hasta la seguridad y la protección social.
+Las mujeres desempeñan un papel desproporcionado en la respuesta al virus, incluso como trabajadoras sanitarias en primera línea y como cuidadoras en el hogar. El trabajo de cuidados no remunerado de las mujeres ha aumentado de manera significativa como consecuencia del cierre de las escuelas y el aumento de las necesidades de los ancianos. Las mujeres también se ven más afectadas por los efectos económicos de la COVID-19, ya que trabajan, de manera desproporcionada, en mercados laborales inseguros. Cerca del 60 % de las mujeres trabaja en la economía informal, lo que las expone aún más a caer en la pobreza.
+
+La pandemia también ha conducido a un fuerte aumento de la violencia contra las mujeres y las niñas. Con las medidas de confinamiento en vigor, muchas mujeres se encuentran atrapadas en casa con sus abusadores, con dificultades para acceder a servicios que están padeciendo recortes y restricciones. Los nuevos datos muestran que, desde el brote de la pandemia, la violencia contra las mujeres y las niñas (y, especialmente, la violencia doméstica) se ha intensificado.
+
+
 ## 3. Codigo
 Desarrollado en la red de Binance (BSC) y con Puentes en la red Etherum contrato inicial:
 
