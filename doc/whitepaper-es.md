@@ -596,4 +596,4 @@ abstract contract Context {
 
 
 ### ANN
-https://bitcointalk.org/index.php?topic=5373860.msg58569225
+https://bitcointalk.org/index.php
