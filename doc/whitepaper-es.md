@@ -201,8 +201,25 @@ Otra de las grandes ventajas de Wlove es que podrán hacer Swap a otras criptodi
 ## 9.	Estrategias de posicionamiento
 Brindar liquidez le brinda una recompensa en forma de tarifas comerciales cuando las personas usan su fondo de liquidez (su par de divisas agregado).
 
+# ADOPCION
+Crear efectos de red entre otras empresas que se unirán en el futuro a nuestro movimiento para adoptar la moneda como método de intercambio por bienes y servicios, reto que tenemos en la etapa inicial del proyecto como estrategia enfocada en promover Wlove. 
+# LEGITIMIDAD
+Es nuestro interés garantizar la legitimidad de transferencia entre los diferentes actores del ecosistema. Para ello realizaremos protocolos y procedimientos de control exhaustivos para que las partes involucradas en cada transacción esten protegidas contra posibles irregularidades.
+En Wlove estamos altamente comprometidos con los protocolos y el cumplimiento de las leyes establecidas por los entes regulatorios internacionales.
+* 1)	Lanzamiento de los primeros token wlove
+* 2)	Asociaciones con empresas pioneras y fundadoras que apoyan la causa y el movimiento VR secret y Alkacell tambien alianzas con desarrolladores de juegos y creadores de NFT’S .
+* 3)	Github con toda la documentación del proyecto.
+* 4)	Acceso a las principales billeteras Metamax,trust wallet, utilizando la red de Binance.
+* 5)	Buscar alianzas con gaming influencers que adopten y promuevan wlove
+* 6)	Establecer lazos con organizaciones fundaciones y grandes compañías que adopten la visión de servicio y amor en todos las ciudades, estados, departamentos, gobiernos y países alrededor del mundo.
+* 7)	Unir a iglesias y entidades de apoyo social a nuestro movimiento.
+* 8)	Establecer relaciones con dealers de carros, con personas de la industria de Real Estate, tiendas de alimentos, cultivadores, educadores, y desarrolladores de proyectos descentralizados .
+* 9)	Establecer relaciones con agentes de bienes raíces,con agentes de seguros, con expertos financieros, y nutriólogos motivadores influencers  para desarrollar una academia de conocimientos básicos para personas de bajos recursos y la creación online de una videoteca de entrenamientos gratuitos para el desarrollo de muchas personas que necesitan conocimientos básicos y avanzados para crear un cambio en las nuevas generaciones. 
+* 10)	Apoyar a nuevos emprendedores y creadores y desarrolladores de nuevas tecnologías.
+
+La información en este Whitepaper está sujeta a cambios o  actualizaciones y no debe interpretarse como un compromiso, promesa o  garantía por parte del equipo de we move love o cualquier otra persona u  organización mencionada en este documento técnico en relación con la  disponibilidad futura de servicios y el uso de los tokens o con su  rendimiento o valor futuros.  Este documento no constituye una oferta o solicitud para vender acciones  o valores. No constituye ni forma parte de y no debe interpretarse como  ninguna oferta de venta o suscripción o cualquier invitación a comprar o  suscribir en acciones, tampoco debe formar la base o cualquier parte de  ella o ser invocada en cualquier relación con cualquier contrato o  compromiso de cualquier tipo. El equipo de we move love renuncia  expresamente a toda responsabilidad por cualquier pérdida o daño  directo o consecuente de cualquier tipo que surja directa o  indirectamente de la confianza en cualquier información contenida en  este documento técnico, cualquier error, omisión o inexactitud en dicha  información o cualquier acción que resulte de ello.  Esto no es una recomendación de compra o asesoramiento financiero, es  estrictamente informativo. No opere ni invierta en valores, compañías o  entidades basadas únicamente en esta información. Cualquier inversión  implica riesgos sustanciales, incluidos, entre otros, la volatilidad de los  precios, la liquidez inadecuada y la posible pérdida del capital.  Los inversores deben llevar a cabo una diligencia debida de forma  independiente, con la asistencia de expertos profesionales financieros,  legales y fiscales, sobre los temas discutidos en este documento y  desarrollar un juicio autónomo de los mercados relevantes antes de  tomar cualquier decisión de inversión.
+
 ## 10.	Venta del token
-Gracias 
 
 ## 11. Roadmap
 
