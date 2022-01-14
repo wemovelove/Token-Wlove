@@ -27,17 +27,17 @@ Details
 
 Whitepaper Token
 ==========================
-* Spanish: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/whitepaper-es.md
-* English: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/white-paper.md
+* Spanish: https://github.com/wemovelove/Token-Wlove/blob/main/doc/whitepaper-es.md
+* English: https://github.com/wemovelove/Token-Wlove/blob/main/doc/whitepaper-es.md
 
 Exchange Delfi Pancakeswap
 =========================
 * WLOVE / WBNB
-https://pancakeswap.finance/info/pool/0x0af9a331cdd540ead58f03d5d7597ffb174bfa60
+https://pancakeswap.finance/info
 * WLOVE / SCOL
-https://pancakeswap.finance/info/pool/0xa12e7b2b2c1c5e8826ce00a59ad5aa4b1274b3b8
+https://pancakeswap.finance/info
 * WLOVE / BUSD
-https://pancakeswap.finance/info/pool/0x283879f1940730862e8b010fab0f49ed1ad8db43
+https://pancakeswap.finance/info
 
 ### ANN
-https://bitcointalk.org/index.php?topic=5373860.msg58569225
+https://bitcointalk.org/
