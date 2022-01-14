@@ -1,1 +1,1 @@
-# Token-Wlove
+# Token-Wlove BEP20
