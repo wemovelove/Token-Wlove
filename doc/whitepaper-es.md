@@ -130,7 +130,9 @@ La pandemia también ha conducido a un fuerte aumento de la violencia contra las
 Desarrollado en la red de Binance (BSC) y con Puentes en la red Etherum contrato inicial:
 
 // contracts/BEP20.sol
+
 Source Code: https://github.com/wemovelove/Token-Wlove/blob/main/wlove.sol
+
 Link Contract: https://bscscan.com/address/0xe0c54a0ac26803cadc40e19d96130063d069c738#code
 
 * /// @custom:security-contact info@wemovelove.org
@@ -233,20 +235,19 @@ La información en este Whitepaper está sujeta a cambios o  actualizaciones y n
 * (1 phase: Duración 2 Años)
 
 ### Q1 2022
-* Enero a diciembre - Venta de activos a través de corredores de bolsa y / o corredores.
-* Pago de recompensas del pool de minería (período mensual)
+* Enero a diciembre - Venta de activos 
 
 ### Q1 2023
-* Enero - Desarrollo de la plataforma Oracle (2 fases).
+* Enero -
 
 ### Q2 2023
-* Junio - Desarrollo de la plataforma del proyecto PAD (3 fases).
+* Junio - 
 
 ### Q1 2024
-* Enero - Pool de minería de tiempo de retirada (1 fase).
+* Enero - 
 
 ### Q1 2025
-* Enero - Lanzamiento del proyecto PAD (3 fases).
+* Enero - 
 
 ## Bibliotecas e interfaces
 
