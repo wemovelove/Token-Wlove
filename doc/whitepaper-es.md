@@ -93,29 +93,29 @@ Gracias
 
 ## 11. Roadmap
 
-# Q1 2021
+### Q1 2021
 * Noviembre de 2021: creación de Token Scolcoin (documento técnico, ANN, Exchange)
 
-# Q2 2021
+### Q2 2021
 * Diciembre de 2021 - Lanzamiento del Fondo Pool Minero y Fondo de Liquidez.
 * Inicio pool Minado. 
 * Inicio pool Loquidez.
 * (1 phase: Duración 2 Años)
 
-# Q1 2022
+### Q1 2022
 * Enero a diciembre - Venta de activos a través de corredores de bolsa y / o corredores.
 * Pago de recompensas del pool de minería (período mensual)
 
-# Q1 2023
+### Q1 2023
 * Enero - Desarrollo de la plataforma Oracle (2 fases).
 
-# Q2 2023
+### Q2 2023
 * Junio - Desarrollo de la plataforma del proyecto PAD (3 fases).
 
-# Q1 2024
+### Q1 2024
 * Enero - Pool de minería de tiempo de retirada (1 fase).
 
-# Q1 2025
+### Q1 2025
 * Enero - Lanzamiento del proyecto PAD (3 fases).
 
 ## Bibliotecas e interfaces
