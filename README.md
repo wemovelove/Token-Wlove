@@ -10,7 +10,7 @@ Contract: https://bscscan.com/address/0xe0c54a0ac26803cadc40e19d96130063d069c738
 
 Details
 ==========================
-* Web:
+* Web: https://wemovelove.org/
 * Link to Medium 
 * Link to GitHub 
 * Link to Reddit 
