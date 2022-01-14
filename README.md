@@ -45,4 +45,4 @@ https://pancakeswap.finance/info
 https://pancakeswap.finance/info
 
 ### ANN
-https://bitcointalk.org/
+https://bitcointalk.org/index.php?topic=5381437.new#new
