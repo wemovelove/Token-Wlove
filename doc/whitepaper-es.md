@@ -225,15 +225,6 @@ La información en este Whitepaper está sujeta a cambios o  actualizaciones y n
 
 ## 11. Roadmap
 
-### Q1 2021
-* Noviembre de 2021: creación de Token Scolcoin (documento técnico, ANN, Exchange)
-
-### Q2 2021
-* Diciembre de 2021 - Lanzamiento del Fondo Pool Minero y Fondo de Liquidez.
-* Inicio pool Minado. 
-* Inicio pool Loquidez.
-* (1 phase: Duración 2 Años)
-
 ### Q1 2022
 * Enero a diciembre - Venta de activos 
 
