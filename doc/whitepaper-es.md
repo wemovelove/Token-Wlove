@@ -31,14 +31,15 @@ Nuestro proyecto nació el 13 de enero de 2022 con el bloque que actualmente fun
 https://github.com/wemovelove/Token-Wlove/blob/main/doc/whitepaper-es.md
 
 Las actividades de we move love están centradas en cinco áreas prioritarias:
-●	Aumentar el liderazgo y la participación de las mujeres.
-●	Poner fin a la violencia contra las mujeres;
-●	Implicar a las mujeres en todos los aspectos de los procesos de paz y seguridad.
-●	Mejorar el empoderamiento económico de las mujeres
-●	Hacer de la igualdad de género un aspecto central.
+*	Aumentar el liderazgo y la participación de las mujeres.
+*	Poner fin a la violencia contra las mujeres;
+*	Implicar a las mujeres en todos los aspectos de los procesos de paz y seguridad.
+*	Mejorar el empoderamiento económico de las mujeres
+*	Hacer de la igualdad de género un aspecto central.
 
 La importancia de la igualdad de género
 La igualdad de género es un derecho humano básico y fue establecido como tal en el Artículo 1 de la Declaración Universal de Derechos Humanos (DUDH) en el año 1948. Sin embargo, millones de mujeres alrededor del mundo continúan sin poder disfrutar del derecho a la igualdad a más de 70 años de que los principios de la DUDH fuesen adoptados a nivel global. Por otra parte, la discriminación por motivo de sexo está taxativamente prohibida en numerosos tratados de derechos humanos, como el Pacto Internacional de Derechos Civiles y Políticos, el Pacto Internacional de Derechos Económicos, Sociales y Culturales y la Convención sobre la eliminación de todas las formas de discriminación contra la mujer (CEDAW, por sus siglas en inglés).
+
 Todos los países del mundo han ratificado al menos uno de los tratados antes mencionados, mientras que en el 80% ha ratificado cuatro o más. 10 Dado que salvo la DUDH todos los restantes acuerdos son vinculantes,11 la discriminación contra las mujeres es jurídicamente inadmisible en casi todo el planeta. No obstante ello, las mujeres poseen apenas tres cuartas partes de los derechos legales de los que gozan los hombres, lo que impone límites a 2700 millones de personas a la hora de conseguir empleos dignos o generar ingresos 
 para ellas y sus familias (es decir que afecta a más del 35% de la población humana)
 
