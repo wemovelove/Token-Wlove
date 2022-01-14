@@ -70,64 +70,28 @@ Link Contract: https://bscscan.com/address/0xe0c54a0ac26803cadc40e19d96130063d06
  - Initial Supply: 3.333.333 Wlove Token
  */
 
-## Pool Miner
-Staking SCOL 2.0 enviando los fondos a la billetera del Pool e ingresando su hash con requisitos mínimos y la rentabilidad máxima del 10% anual. No puede canjear su apuesta durante la primera fase, 2 años. pool.scolcoin.com convierte los SCOL nativos en tokens como la única prueba de sus SCOL de participación con una proporción de 1:1. con el requisito de ingresar una inversión al fondo de liquidez del token.
+## 4. Los problemas
+Staking SCOL 2.0 
 
-# Distribución de recompensas (Staking)
+## 5. Propuesta de valor
+Cada 30 días 
 
-Cada 30 días distribuimos las recompensas generadas en la cadena de bloques nativa de Scolcoin entre todos los participantes en función de su posición de token de Scolcoin. Estas recompensas se distribuyen en Scol Nativo a las billeteras registradas en pool.scolcoin.com de los usuarios.
-
-# Retiro de fondos
-
+## 6. El token "WLOVE"
 Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera fase 2 años.
 
-## Investment (Fondo Liquidez)
-Un fondo de inversión colectiva Scolcoin también llamado liquidez en los intercambios descentralizados, este bloque consiste en recolectar fondos de diferentes inversionistas, naturales o legales, para apalancar el activo Token Scolcoin en los DELFIs actuales con diferentes pares, logrando capitalizar el proyecto a través de la tenencia de 2 años recibiendo recompensas directas a sus billeteras con Scolcoin Nativo, mediante minería en prueba de participación 10% anual. los recursos se aplicarán directamente en forma de liquidez en diferentes pares.
-Los proveedores de liquidez ganan comisiones de negociación y participación.
+## 7.	EL Ecosistema
+Un fondo 
 
-## Los Proveedores de Liquidez ganan comisiones de trading
-Proporcionar liquidez le da una recompensa en forma de tarifas de trading cuando las personas utilizan su fondo de liquidez (su par de monedas agregado). Cada vez que alguien opera en PancakeSwap, el operador paga una tarifa del 0.25%, de la cual el 0.17% se agrega al Fondo de Liquidez del par de swaps en el que operaron.
+## 8.	Estrategias de Crecimiento
+Proporcionar 
 
-# Trading Liquidez:
+## 9.	Estrategias de posicionamiento
 Brindar liquidez le brinda una recompensa en forma de tarifas comerciales cuando las personas usan su fondo de liquidez (su par de divisas agregado).
 
-# Recompensa por Staking
-Gracias al Pool Minero Scolcoin Nativo, se dará una compensación de acuerdo a la tenencia que cada persona tenga en el token (10% anual), las ganancias se distribuyen mensualmente.
+## 10.	Venta del token
+Gracias 
 
-# Referido por Inversion
-Los comisionados del fondo de liquidez al registrar a sus invitados que realicen el proceso tendrán una comisión directa a sus billeteras en scolcoin nativo del 3% al 15% de la inversión realizada al fondo.
-
-# Table:
-* Comisión 15% por montos menores a $ 1,000 USDT
-* 10% de comisión por montos entre $ 1,000 y $ 3,000 USDT
-* Comisión 5% para montos entre $ 3,001 y $ 10,000 USDT
-* Comisión 3% por montos superiores a $ 10,001 USDT
-**** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
-
-## Desarrollo:
-
-# 1 Fase:
-Implementación del sistema Oraculo Scolcoin (blockchain).
-
-# 2 Fase:
-La implementación del sistema de conversión (Swap) se realizará mediante una API diseñada para la comunidad Scolcoin diseñada para intercambiar todas las monedas por token mediante la realización de una multiblockchain.
-
-# 3 Fase:
-Integración del proyecto PAD con el sistema multiblockchain API de Scolcoin. El proyecto PAD contiene un motor basado en inteligencia artificial para generar contratos inteligentes sobre una maquina virtual Scolcoin, con backup en redes publicas como soporte.
-
-# Definición Oraculo Blockchain:
-Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto SCOL.
-
-## Conversión:
-la distribucion se realiza con la siguiente formula:
-* Scolcoin Nativos (pool staking) + $liquidez = Scolcoin Token  <2 años en staking>
-
-Nota: si tienen Criptomonedas nativas Scol podran minar en el pool de mineria y recibiras el token Scolcoin como respaldo del pool y adicional debes invertir en el fondo de liquidez para apalancar el token, esto te dara como resultado el Token Scolcoin.
-
-o si tienes Token Scolcoin:
-* podras cambiar al valor real por la criptomoneda scolcoin nativa para realizar intercambios. los token obtenidos se almacenaran en la wallet desarrollo 0xfDa31C592cdA440C88097A2C9ea0C4F8D69931aD.
-
-## Roadmap
+## 11. Roadmap
 
 # Q1 2021
 * Noviembre de 2021: creación de Token Scolcoin (documento técnico, ANN, Exchange)
