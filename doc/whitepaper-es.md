@@ -145,19 +145,58 @@ Link Contract: https://bscscan.com/address/0xe0c54a0ac26803cadc40e19d96130063d06
  */
 
 ## 4. Los problemas
-Staking SCOL 2.0 
+
 
 ## 5. Propuesta de valor
-Cada 30 días 
+
 
 ## 6. El token "WLOVE"
-Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera fase 2 años.
+
 
 ## 7.	EL Ecosistema
-Un fondo 
+
+# Fase 1
+* GAME power	 
+* www.wemovelove.com
+* NFT,S
+* TOKEN  WLOVE	
+* ALKACEL WATER
+* Marketplace
+* VR Secret
+
+
+# Fase 2
+* WML DONATE
+* WML COIN	
+* WML BANKS FOOD 
+* WML TRANSPORT	      
+* WML MINIG	
+* WML RESTAURANTS
+* WML STORES	     
+* WML WALLET	  
+
+
+# FASE 3
+* WML HUMANITY	   
+* WML CARS	    
+* WML HEALTH
+* WML REAL ESTATE	   
+* WML DEfi	     
+* WML ACADEMY
+* WML TRAVEL	   
+* WML BEAUTY	     
+* WML QUANTUM
+ 
 
 ## 8.	Estrategias de Crecimiento
-Proporcionar 
+PLAN DE ACCION
+USABILIDAD
+El crecimiento de WML con WLove está directamente ligado a la usabilidad de la moneda en diferentes plataformas de juegos y tiendas físicas y virtuales. Asi,la facilidad de uso de la moneda se vuelve fundamental para el proyecto, lo que lograremos a través de Partnerships con diferentes desarrolladores de juegos y plataformas de pago en Empresas, iglesias, organizaciones  y fundaciones.
+
+Esto con el propósito de asegurar la usabilidad,transparencia, simplicidad y acceso a Wlove. Los jugadores  y coleccionistas podrán usar sus billeteras para comprar en diferentes plataformas asociadas y también al ganar recompensas del juego play to earn.
+
+Otra de las grandes ventajas de Wlove es que podrán hacer Swap a otras criptodivisas como ETH,BNB,USDT entre otras.
+
 
 ## 9.	Estrategias de posicionamiento
 Brindar liquidez le brinda una recompensa en forma de tarifas comerciales cuando las personas usan su fondo de liquidez (su par de divisas agregado).
