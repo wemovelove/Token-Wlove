@@ -28,9 +28,9 @@ Parámetros de compilación: Solidity 0.8.11+commit.d7f03943. Optimización 200
 Nuestro proyecto nació el 13 de enero de 2022 con el bloque que actualmente funciona en paralelo a nuestro token.
 
 * Link Whitepaper 1.0.0.1 Wlove Token
-https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
+https://github.com/wemovelove/Token-Wlove/blob/main/doc/whitepaper-es.md
 
-## Criptomoneda SCOLCOIN (SCOL) Blockchain Nativa 2018 - 2021
+## WE MOVE LOVE 2022
 El Proyecto Social Scolcoin en su etapa de creación fue presentado a la comunidad como el activo digital ecológico colombiano para alcanzar la fase Proof of Stake, logrando posicionamiento y reconocimiento en LatAm. Su bloque de génesis se realizó el 3 de enero de 2018, se conformaron los comités y presencia en comunidades.
 
 * Link Código Scolcoin blockchain
