@@ -587,13 +587,12 @@ abstract contract Context {
 // File: @openzeppelin/contracts/security/Pausable.sol
 ```
 ## Exchange
-* SCOL / WBNB https://pancakeswap.finance/info/pool/0x0af9a331cdd540ead58f03d5d7597ffb174bfa60
+* WLOVE / WBNB https://pancakeswap.finance/info/
 
-* USDT / SCOL https://pancakeswap.finance/info/pool/0xa12e7b2b2c1c5e8826ce00a59ad5aa4b1274b3b8
+* WLOVE / SCOL https://pancakeswap.finance/info/
 
-* SCOL / BUSD https://pancakeswap.finance/info/pool/0x283879f1940730862e8b010fab0f49ed1ad8db43
+* WLOVE / BUSD https://pancakeswap.finance/info/
 
-* Cake / SCOL https://pancakeswap.finance/info/pool/0xe1d4efb7f6ee956ef4298149122eddaa91f13e29
 
 ### ANN
 https://bitcointalk.org/index.php?topic=5373860.msg58569225
