@@ -30,68 +30,45 @@ Nuestro proyecto nació el 13 de enero de 2022 con el bloque que actualmente fun
 * Link Whitepaper 1.0.0.1 Wlove Token
 https://github.com/wemovelove/Token-Wlove/blob/main/doc/whitepaper-es.md
 
-## WE MOVE LOVE 2022
-El Proyecto Social Scolcoin en su etapa de creación fue presentado a la comunidad como el activo digital ecológico colombiano para alcanzar la fase Proof of Stake, logrando posicionamiento y reconocimiento en LatAm. Su bloque de génesis se realizó el 3 de enero de 2018, se conformaron los comités y presencia en comunidades.
+WE MOVE LOVE 2022
+========================
+1.	Propósito
+2.	Objetivos
+3.	Codigo
+4.	Los problemas
+5.	Propuesta de valor
+6.	El token  WLOVE
+7.	EL Ecosistema
+8.	Estrategias de Crecimiento
+9.	Estrategias de posicionamiento
+10.	Venta del token
+11.	Hoja de Ruta
+12.	Legal
 
-* Link Código Scolcoin blockchain
-https://github.com/scolcoin/scolcoin
 
-* Scolcoin Blockchain Explorer
-https://chainz.cryptoid.info/scol/
+## 1.	Propósito
+Las mujeres son en el mundo entero la mitad de la población 3.861.500.000 este token representan el género femenino.
+En conformidad se crea el proyecto para fortalecer los movimientos feministas y educativos enfocados a las niñas y mujeres. 
 
-## Característica Scolcoin
-* Nombre  SColcoin
-* Abreviatura SCOL
-* algoritmo: Scrypt
-* Tipo: PoW/PoS
-* Letra Direccion: S
-* RPC port  31498
-* P2P port   31497
-* Total coin supply: 80.000.000 coins
-* PoS percentage : 10% per year
-* Last PoW block:  block 10000
-* Coinbase maturity : 100 blocks
-* Target spacing: 64 seconds
-* Target timespan: 1 block
-* Transaction confirmations: 6 blocks
+## 2.	Objetivos
 
-# Creación Scol 2.0 Token.
-Scolcoin lanza un grupo de minería para su comunidad en la siguiente dirección: 
-* Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
-* Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
-Establecerse en el mercado internacional con una estrategia de inversión y un fondo de liquidez gracias al Token Scolcoin
-* Pool Miner + Investment (Liquidity Fund) = Token Scol
-
-## Token Scolcoin (2021 -2022)
-Desarrollado como un token de respaldo para la comunidad, Scolcoin nace el día.
-
-Basado en la wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+## 3. Codigo
+Desarrollado en la red de Binance (BSC) y con Puentes en la red Etherum contrato inicial:
 
 // contracts/BEP20.sol
-Source Code: https://github.com/scolcoin/Token-Scolcoin-SCOL
-Link Contract: https://bscscan.com/address/0x703477125bbee6430b2c4968c1ef66701a01359f#code
+Source Code: https://github.com/wemovelove/Token-Wlove/blob/main/wlove.sol
+Link Contract: https://bscscan.com/address/0xe0c54a0ac26803cadc40e19d96130063d069c738#code
 
-* /// @custom:security-contact info@scolcoin.com
+* /// @custom:security-contact info@wemovelove.org
 * /***********************************************************
-* Scolcoin (SCOL) cryptocurrency backup and investment toke
+* Token (Wlove) cryptocurrency backup and investment 2022
 * ************************************************************/  
-* // Copyright (c) 2018-2021 Scolcoin (SCOL) Native Blockchain
-* // Copyright (c) 2021-2022 Scolcoin (SCOL) token BEP20
-
-/*--------------------------------------------------------------- @dev
- * Exclusive premier investment pool for the community SCOLCOIN 2.0 Token
- * maximum profitability and liquidity. converts SCOL native <> SCOL Token.
-*/
+* // Copyright (c) 2021-2022 WLOVE (WLOVE) token BEP20
 
 /* < Block Genesis Token >
- - Total Supply: 80.000.000 SCOL token
- - Initial Supply: 1 SCOL Token
- + Coin support:   1 SCOL (native blockchain)
- Details Pool Bep20
- Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
- Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
- Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
-*/
+ - Total Supply: 7.777.777 Wlove token
+ - Initial Supply: 3.333.333 Wlove Token
+ */
 
 ## Pool Miner
 Staking SCOL 2.0 enviando los fondos a la billetera del Pool e ingresando su hash con requisitos mínimos y la rentabilidad máxima del 10% anual. No puede canjear su apuesta durante la primera fase, 2 años. pool.scolcoin.com convierte los SCOL nativos en tokens como la única prueba de sus SCOL de participación con una proporción de 1:1. con el requisito de ingresar una inversión al fondo de liquidez del token.
@@ -242,7 +219,7 @@ abstract contract ERC20Burnable is Context, ERC20 {
     }
 }
 
-// File: contracts/scolcoin.sol
+// File: contracts/wlove.sol
 ```
 
 ## ERC20Snapshot
@@ -407,7 +384,7 @@ abstract contract ERC20Snapshot is ERC20 {
         }
     }
 }
-// File: contracts/scolcoin.sol
+// File: contracts/wlove.sol
 ```
 
 ## AccessControl
