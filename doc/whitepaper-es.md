@@ -16,18 +16,18 @@ Nuestros Smart Contracts se basan en seguros y confiables [OpenZeppelin ERC-20 S
 
 OpenZeppelin el código está en el corazón de nuestros tokens y seguimos sus prácticas de seguridad e implementación con mucho cuidado.
 
-# Token Scolcoin (SCOL) 
+# Token Wlove (WLOVE) 
 
-Este token es una implementación estándar de ERC-20 y se implementó en la red principal de Binance Smart Chain con un suministro máximo fijo de 80,000,000 SCOL. Creacion de 1 SCOL tokens. Para arrancar el ecosistema Scolcoin Native Blockchain.
+Este token es una implementación estándar de ERC-20 y se implementó en la red principal de Binance Smart Chain con un suministro máximo fijo de 7,777,777 WLOVE. Para arrancar el ecosistema se creo 3.333.333 en el preminado.
 
-Mainnet Deployed Scolcoin (SCOL) Token can be found here: https://bscscan.com/token/0x703477125bbee6430b2c4968c1ef66701a01359f
+Mainnet Deployed WLove (WLOVE) Token can be found here: https://bscscan.com/tx/0x4eed6a96ba976d7d887a3e672e4b366485de0c2be33e8aa65e07e7b162090639
 
-Parámetros de compilación: Solidity 0.8.10+commit.fc410830. Optimización 200
+Parámetros de compilación: Solidity 0.8.11+commit.d7f03943. Optimización 200
 
-## Proyecto Scolcoin
-Nuestro proyecto nació el 3 de enero de 2018 con el bloque génesis de la cadena de bloques nativa Scolcoin (SCOL) que actualmente funciona en paralelo a nuestro token. Evolucionó con el whitepaper 2.0.0.2 donde nació la apuesta de los fondos de inversión y minería, que se refleja en Token Scolcoin.
+## Proyecto Wlove
+Nuestro proyecto nació el 13 de enero de 2022 con el bloque que actualmente funciona en paralelo a nuestro token.
 
-* Link Whitepaper 2.0.0.2 Scolcoin Nativo Blockchain
+* Link Whitepaper 1.0.0.1 Wlove Token
 https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
 
 ## Criptomoneda SCOLCOIN (SCOL) Blockchain Nativa 2018 - 2021
