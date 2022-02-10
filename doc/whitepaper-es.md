@@ -579,11 +579,7 @@ abstract contract Context {
 // File: @openzeppelin/contracts/security/Pausable.sol
 ```
 ## Exchange
-* WLOVE / WBNB https://pancakeswap.finance/info/
-
-* WLOVE / SCOL https://pancakeswap.finance/info/
-
-* WLOVE / BUSD https://pancakeswap.finance/info/
+* WLOVE / USDT https://pancakeswap.finance/info/
 
 
 ### ANN
