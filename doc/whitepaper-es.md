@@ -245,7 +245,7 @@ La información en este Whitepaper está sujeta a cambios o  actualizaciones y n
 ```Solidity
 pragma solidity ^0.8.2;
 ```
-Nosotros hemos desplegado Scolcoin token to mainnet with solidity ^0.8.2.
+Nosotros hemos desplegado Wlove token to mainnet with solidity ^0.8.2.
 
 ```Solidity
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
