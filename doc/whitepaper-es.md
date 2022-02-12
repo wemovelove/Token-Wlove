@@ -250,7 +250,7 @@ Nosotros hemos desplegado Scolcoin token to mainnet with solidity ^0.8.2.
 ```Solidity
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 ```
-De inmediato nos adentramos en el uso intensivo de las bibliotecas seguras de OpenZeppelin. Esta es la implementación básica de ERC-20 en la que se basa SCOL.
+De inmediato nos adentramos en el uso intensivo de las bibliotecas seguras de OpenZeppelin. Esta es la implementación básica de ERC-20.
 
 ```Solidity
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
@@ -259,7 +259,6 @@ import "@openzeppelin/contracts/access/AccessControl.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol";
 ```
-Ya hemos incluido scolcoin.sol, ¿por qué incluir la interfaz? El contrato inteligente de SCOL acepta un _token como uno de los parámetros de construcción. Discutiremos esto en la sección ** constructor ** a continuación.
 
 ## ERC20Burnable
 Nuestro Token puede realizar la función de Burning Token, realizar Recompras para poder Quemar Tokens.
