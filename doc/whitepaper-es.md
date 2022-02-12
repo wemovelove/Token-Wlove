@@ -25,7 +25,7 @@ Mainnet Deployed WLove (WLOVE) Token can be found here: https://bscscan.com/tx/0
 Parámetros de compilación: Solidity 0.8.11+commit.d7f03943. Optimización 200
 
 ## Proyecto Wlove
-Nuestro proyecto nació el 13 de enero de 2022.
+Nuestro proyecto nació el 13 de enero de 2020.
 
 * Link Whitepaper 1.0.0.1 Wlove Token
 https://github.com/wemovelove/Token-Wlove/blob/main/doc/whitepaper-es.md
