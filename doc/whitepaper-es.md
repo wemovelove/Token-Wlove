@@ -157,37 +157,36 @@ Link Contract: https://bscscan.com/address/0xe0c54a0ac26803cadc40e19d96130063d06
 
 ## 7.	EL Ecosistema
 
-# Fase 1
-* GAME power	 
+# Fase 1 
 * www.wemovelove.com
-* NFT,S
-* TOKEN  WLOVE	
-* ALKACEL WATER
+* Academia online
+* TOKEN  WLOVE
+* Wlove Wallets	
+* WML Crypto Card 
 * Marketplace
-* VR Secret
+* We Move Love NFTs
 
 
 # Fase 2
-* WML DONATE
-* WML COIN	
-* WML BANKS FOOD 
-* WML TRANSPORT	      
-* WML MINIG	
-* WML RESTAURANTS
-* WML STORES	     
-* WML WALLET	  
+* WML Marketplace
+* WML Mining	
+* WML Restaurants 
+* WML Stores      
+* WML Water
+* WML Videogames
+* WML Dapps     	  
 
 
 # FASE 3
-* WML HUMANITY	   
-* WML CARS	    
-* WML HEALTH
-* WML REAL ESTATE	   
-* WML DEfi	     
-* WML ACADEMY
-* WML TRAVEL	   
-* WML BEAUTY	     
-* WML QUANTUM
+* WML Cannabis 
+* WML Hotels    
+* WML Rent a Cars
+* WML Real Estate	   
+* WML Defi	     
+* WML Quantum
+* WML Delivery	
+* WML Travely
+* WML Beauty	     
  
 
 ## 8.	Estrategias de Crecimiento
