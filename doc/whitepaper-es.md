@@ -163,7 +163,6 @@ Link Contract: https://bscscan.com/address/0xe0c54a0ac26803cadc40e19d96130063d06
 * TOKEN  WLOVE
 * Wlove Wallets	
 * WML Crypto Card 
-* Marketplace
 * We Move Love NFTs
 
 
